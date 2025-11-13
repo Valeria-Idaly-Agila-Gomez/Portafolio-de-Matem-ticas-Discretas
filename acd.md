@@ -1,8 +1,8 @@
-📘 **ACD1:** Aprendizaje en Contacto con el Docente
+📘 **ACD1:**
 
 ----------------------------------------------------
 
-📘 **ACD2:** Aprendizaje en Contacto con el Docente
+📘 **ACD2:** 
 
 ----------------------------------------
 
