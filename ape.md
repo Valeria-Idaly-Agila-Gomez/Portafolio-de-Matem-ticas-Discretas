@@ -1,4 +1,4 @@
-📘 **APE1:** Aprendizaje Practico Experimental
+📘 **APE1:** 
 
 
 
