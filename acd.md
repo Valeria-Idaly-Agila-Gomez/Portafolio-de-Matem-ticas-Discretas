@@ -5,7 +5,8 @@
 
 📘 **ACD2:** 
 
-##Tema: Leyes de las proposiciones y reglas de inferencia 
+# Leyes de las proposiciones y reglas de inferencia
+--
 [leyes de las propocisionesy reglas de inferencia_Valeria Agila (1).pdf](https://github.com/user-attachments/files/23535436/leyes.de.las.propocisionesy.reglas.de.inferencia_Valeria.Agila.1.pdf)
 
 ----------------------------------------
