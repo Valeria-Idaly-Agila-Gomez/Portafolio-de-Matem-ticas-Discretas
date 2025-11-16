@@ -23,7 +23,7 @@
 > 📝 **Leyes de las Proposiciones y Reglas de Inferencia**
 >
 > **Nota:** El PDF incluido en este repositorio contiene información sobre:
-> - **Leyes de las proposiciones:** reglas o equivalencias lógicas que permiten simplificar, transformar o demostrar expresiones lógicas sin alterar su valor de verdad. Incluye leyes como:
+> - **Leyes de las proposiciones:** Reglas o equivalencias lógicas que permiten simplificar, transformar o demostrar expresiones lógicas sin alterar su valor de verdad. Incluye leyes como:
 >   - Ley de Identidad
 >   - Ley de Dominación
 >   - Ley de Doble Negación
@@ -34,7 +34,7 @@
 >   - Ley de Absorción
 >   - Ley del Condicional
 >   - Ley del Bicondicional
-> - **Reglas de inferencia:** formas de razonamiento lógico válidas que permiten deducir conclusiones a partir de premisas. Incluye:
+> - **Reglas de inferencia:** Formas de razonamiento lógico válidas que permiten deducir conclusiones a partir de premisas. Incluye:
 >   - Modus Ponens
 >   - Modus Tollens
 >   - Silogismo Hipotético
