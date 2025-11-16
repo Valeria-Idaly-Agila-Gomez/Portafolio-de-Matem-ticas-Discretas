@@ -1,6 +1,7 @@
 📘 **ACD1:**
 ## Conceptos Básicos de la Lógica Proposicional
 
+[Conceptos-Basicos-de-la-Logica-Proposicional (6).pdf](https://github.com/user-attachments/files/23570980/Conceptos-Basicos-de-la-Logica-Proposicional.6.pdf)
 
 ----------------------------------------------------
 
