@@ -4,6 +4,7 @@
 Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferencia.
 
 -------------------------------------
+**Haga click para descargar:**
 [Lectura y ejercicios.pdf](https://github.com/user-attachments/files/23535547/Lectura.y.ejercicios.pdf)
 
 -----------------
