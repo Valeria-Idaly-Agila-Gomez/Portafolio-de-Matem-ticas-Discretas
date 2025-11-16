@@ -7,7 +7,7 @@
 > - Qué es una proposición lógica
 > - Proposiciones simples y compuestas
 > - Conectores lógicos 
-> - Tablas de verdad y ejemplos prácticos
+> - Tablas de verdad y ejemplo práctico
 >
 > Este documento sirve como material de estudio y referencia para comprender cómo se construyen y evalúan proposiciones en lógica formal.
 ---
