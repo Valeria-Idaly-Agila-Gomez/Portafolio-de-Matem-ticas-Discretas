@@ -16,10 +16,10 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 [Lectura y ejercicios.pdf](https://github.com/user-attachments/files/23535547/Lectura.y.ejercicios.pdf)
 
 -----------------
- [- 🧩 Haga click aqui para volver a la Unidad 1 ](unidad1.md)
+
 
  📘 **AA2:** 
-
+# Documento de portafolio digital
  > 📂 **Documento de Enlace**
 >
 > **Nota:** Este portafolio digital está alojado en GitHub y contiene los PDFs con:
@@ -30,8 +30,12 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 >
 > Puedes acceder a todos los documentos y materiales desde el repositorio en GitHub.
 >
+-----
 
+**Haga click para descargar:**
  [Portafolio digital.pdf](https://github.com/user-attachments/files/23571156/Portafolio.digital.pdf)
+ ---
+  [- 🧩 Haga click aqui para volver a la Unidad 1 ](unidad1.md)
 
  
 
