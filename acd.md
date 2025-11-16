@@ -10,13 +10,15 @@
 > - Tablas de verdad y ejemplos prácticos
 >
 > Este documento sirve como material de estudio y referencia para comprender cómo se construyen y evalúan proposiciones en lógica formal.
+---
 
-
+**Haga click para descargar:**
 [Conceptos-Basicos-de-la-Logica-Proposicional (6).pdf](https://github.com/user-attachments/files/23570980/Conceptos-Basicos-de-la-Logica-Proposicional.6.pdf)
 
 ----------------------------------------------------
 
 📘 **ACD2:** 
+## Actividad de leyes de las proposiciones y reglas de inferencia
 
 > 📝 **Leyes de las Proposiciones y Reglas de Inferencia**
 >
@@ -45,9 +47,9 @@
 > Este documento sirve como material de estudio y referencia para comprender cómo se aplican las leyes de la lógica y las reglas de inferencia para construir argumentos válidos.
 
 
-## Leyes de las proposiciones y reglas de inferencia
------
 
+-----
+**Haga click para descargar:**
 [leyes de las propocisionesy reglas de inferencia_Valeria Agila (1).pdf](https://github.com/user-attachments/files/23535436/leyes.de.las.propocisionesy.reglas.de.inferencia_Valeria.Agila.1.pdf)
 
 ----------------------------------------
