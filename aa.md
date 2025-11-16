@@ -5,8 +5,8 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 > 📝 **Lectura y Ejercicios**
 >
 > **Nota:** El PDF incluido en este repositorio contiene:
-> - **Lectura de proposiciones:** se presenta un enunciado o problema del cual se deben **identificar las premisas y resolverlas**.  
-> - **Ejercicios prácticos:** se incluyen otros ejercicios donde también se deben **determinar las premisas y aplicar las reglas de inferencia**.
+> - **Lectura de proposiciones:** Se presenta un enunciado o problema del cual se deben **identificar las premisas y resolverlas**.  
+> - **Ejercicios prácticos:** Se incluyen otros ejercicios donde también se deben **determinar las premisas y aplicar las reglas de inferencia**.
 >
 > Estos ejercicios permiten practicar la deducción lógica paso a paso, reforzando la comprensión de cómo se extraen conclusiones válidas a partir de premisas.
 
