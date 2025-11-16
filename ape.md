@@ -8,7 +8,8 @@
 >
 > Este documento sirve como material de práctica para fortalecer la comprensión de la lógica proposicional y la aplicación de tablas de verdad.
 
-
+---
+ **Haga click para descargar:**
 [trabajo grupal1 (1).pdf](https://github.com/user-attachments/files/23571034/trabajo.grupal1.1.pdf)
 
 --------------------
