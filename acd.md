@@ -6,7 +6,7 @@
 > **Nota:** El PDF incluido en este repositorio contiene la actividad sobre **conceptos básicos de lógica proposicional**, incluyendo:
 > - Qué es una proposición lógica
 > - Proposiciones simples y compuestas
-> - Conectores lógicos (¬, ', *, ³, µ)
+> - Conectores lógicos 
 > - Tablas de verdad y ejemplos prácticos
 >
 > Este documento sirve como material de estudio y referencia para comprender cómo se construyen y evalúan proposiciones en lógica formal.
