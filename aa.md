@@ -14,8 +14,9 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 -------------------------------------
 **Haga click para descargar:**
 
+[Lectura.y.ejercicios.pdf](https://github.com/user-attachments/files/23571276/Lectura.y.ejercicios.pdf)
 
-[Portafolio.digital.2.pdf](https://github.com/user-attachments/files/23571271/Portafolio.digital.2.pdf)
+
 
 -----------------
 
