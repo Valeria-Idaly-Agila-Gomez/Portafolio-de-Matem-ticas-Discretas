@@ -34,7 +34,8 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 -----
 
 **Haga click para descargar:**
- [Portafolio digital.pdf](https://github.com/user-attachments/files/23571156/Portafolio.digital.pdf)
+ [Portafolio digital (2).pdf](https://github.com/user-attachments/files/23571243/Portafolio.digital.2.pdf)
+
  
  ---
   [- 🧩 Haga click aqui para volver a la Unidad 1 ](unidad1.md)
