@@ -18,3 +18,20 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 -----------------
  [- 🧩 Haga click aqui para volver a la Unidad 1 ](unidad1.md)
 
+ 📘 **AA2:** 
+
+ > 📂 **Documento de Enlace**
+>
+> **Nota:** Este portafolio digital está alojado en GitHub y contiene los PDFs con:
+> - Conceptos básicos de lógica proposicional  
+> - Leyes de las proposiciones y reglas de inferencia  
+> - Ejercicios de tablas de verdad  
+> - Ejercicios de inferencia con lectura y premisas  
+>
+> Puedes acceder a todos los documentos y materiales desde el repositorio en GitHub.
+>
+
+ [Portafolio digital.pdf](https://github.com/user-attachments/files/23571156/Portafolio.digital.pdf)
+
+ 
+
