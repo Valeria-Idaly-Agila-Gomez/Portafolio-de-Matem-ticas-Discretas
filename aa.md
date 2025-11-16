@@ -2,7 +2,7 @@
 # Ejercicios de deducción lógica
 
 Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferencia.
-> 📝 **Lectura y Ejercicios de Reglas de Inferencia**
+> 📝 **Lectura y Ejercicios**
 >
 > **Nota:** El PDF incluido en este repositorio contiene:
 > - **Lectura de proposiciones:** se presenta un enunciado o problema del cual se deben **identificar las premisas y resolverlas**.  
