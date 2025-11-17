@@ -1,14 +1,18 @@
-📘 **AA1:** 
-# Ejercicios de deducción lógica
+# 📘 **AA1:** 
+
+## 🧠🔍 Ejercicios de Deducción Lógica
 
 Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferencia.
+
 > 📝 **Lectura y Ejercicios**
 >
-> **Nota:** El PDF incluido en este repositorio contiene:
-> - **Lectura de proposiciones:** Se presenta un enunciado o problema del cual se deben **identificar las premisas y resolverlas**.  
-> - **Ejercicios prácticos:** Se incluyen otros ejercicios donde también se deben **determinar las premisas y aplicar las reglas de inferencia**.
+> 📄 **Nota:** El PDF incluido en este repositorio contiene:
+> - 🔹 **Lectura de proposiciones:** Se presenta un enunciado o problema del cual se deben **identificar las premisas y resolverlas**.  
+> - 🔹 **Ejercicios prácticos:** Ejercicios adicionales donde se deben **determinar las premisas y aplicar las reglas de inferencia**.
 >
-> Estos ejercicios permiten practicar la deducción lógica paso a paso, reforzando la comprensión de cómo se extraen conclusiones válidas a partir de premisas.
+> 🧩 Estos ejercicios permiten practicar la deducción lógica paso a paso, reforzando la comprensión de cómo se obtienen conclusiones válidas a partir de premisas.
+
+
 
 
 -------------------------------------
