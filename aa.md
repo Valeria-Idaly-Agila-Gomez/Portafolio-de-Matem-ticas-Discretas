@@ -12,9 +12,10 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 
 
 -------------------------------------
-**Haga click para descargar:**
+ ## 🏷️ Enlace de trabajo
 
-[Lectura.y.ejercicios.pdf](https://github.com/user-attachments/files/23571276/Lectura.y.ejercicios.pdf)
+[**Documento de trabajo**](https://drive.google.com/file/d/13F6ba1J6Sw4S-zr_msryf45xNdA5kMqF/view?usp=drive_link)
+
 
 
 
