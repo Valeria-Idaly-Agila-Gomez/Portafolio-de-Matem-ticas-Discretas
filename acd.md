@@ -12,8 +12,9 @@
 > Este documento sirve como material de estudio y referencia para comprender cómo se construyen y evalúan proposiciones en lógica formal.
 ---
 
-**Haga click para descargar:**
-[Conceptos-Basicos-de-la-Logica-Proposicional (6).pdf](https://github.com/user-attachments/files/23570980/Conceptos-Basicos-de-la-Logica-Proposicional.6.pdf)
+ ## 🏷️ Enlace de trabajo
+
+[**Documento de trabajo**](https://drive.google.com/file/d/1Sv5I0Y22EjPH1tBS0Ki_zoIPiRZNSM2P/view?usp=drive_link)
 
 ----------------------------------------------------
 
@@ -49,8 +50,9 @@
 
 
 -----
-**Haga click para descargar:**
-[leyes de las propocisionesy reglas de inferencia_Valeria Agila (1).pdf](https://github.com/user-attachments/files/23535436/leyes.de.las.propocisionesy.reglas.de.inferencia_Valeria.Agila.1.pdf)
+ ## 🏷️ Enlace de trabajo
+
+[**Documento de trabajo**](https://drive.google.com/file/d/1dmvahs5x6iyTlc8nuPSAjfScfza0an9i/view?usp=drive_link)
 
 ----------------------------------------
 
