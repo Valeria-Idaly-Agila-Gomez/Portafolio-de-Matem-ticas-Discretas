@@ -40,8 +40,11 @@ Estos ejercicios se resuelven utilizando premisas y aplicando reglas de inferenc
 >
 -----
 
-**Haga click para descargar:**
- [Portafolio digital (2).pdf](https://github.com/user-attachments/files/23571243/Portafolio.digital.2.pdf)
+ ## 🏷️ Enlace de trabajo
+
+[**Documento de trabajo**](https://drive.google.com/file/d/1620E5cQlRzFPCjm2dzgnm6bKtcabBjzD/view?usp=drive_link)
+
+
 
  
  ---
